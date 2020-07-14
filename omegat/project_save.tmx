@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="cs" changeid="albert" changedate="20200714T183521Z" creationid="albert" creationdate="20200714T183521Z">
+        <seg>&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;f2&gt;Your mama is so fat that they call her...&lt;/f2&gt;</seg>
       </tuv>
       <tuv lang="cs" changeid="albert" changedate="20200714T175414Z" creationid="albert" creationdate="20200714T175414Z">
