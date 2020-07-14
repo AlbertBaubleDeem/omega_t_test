@@ -28,6 +28,14 @@
         <seg>Toto je příklad zdrojového souboru pro překlad.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is an example source file for translation.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs" changeid="albert" changedate="20200714T175443Z" creationid="albert" creationdate="20200714T175443Z">
+        <seg>Toto je příklad zdrojového souboru pro překlad.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
